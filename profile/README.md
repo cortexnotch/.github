@@ -23,4 +23,4 @@
 | **A real cluster** | A local k3d Kubernetes cluster kept in sync from Git by Flux, the same way production clusters run. |
 | **Private Jarvis** | A local LLM on Ollama with a neural voice and on-device speech recognition. No API keys, no rate limits, nothing leaves your Mac. |
 
-**$19 once.** No subscription, no account, no cloud. 30-day money-back guarantee.
+**$35 once.** No subscription, no account, no cloud. 30-day money-back guarantee.
